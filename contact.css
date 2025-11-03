@@ -1,0 +1,83 @@
+
+*{
+    padding: auto;
+    width: 0 auto;
+    border:auto;
+font-size: auto;
+font-family: sans-serif;
+}
+
+.logo img{
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+    width: 10%;
+    padding: 10px 5px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+
+}
+/* NAV */
+nav a{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: rgb(0, 208, 255);
+     font-size: 10px;
+     height: 40px;
+     width: 100%;
+     text-decoration: none;
+
+    
+    
+}
+div video{
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
+.display{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 208, 255);
+}
+.contact{
+  margin-top: 10px;
+    margin-right: 20%;
+    background-color:rgb(0, 208, 255);
+}
+.workinghours{
+    margin-bottom: 20px;
+    background-color:rgb(0, 208, 255);
+}
+
+textarea{
+    margin-top: 5px;
+    margin-left:12% ;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.feedback{
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+}
+.direction{
+    display: flex;
+}
+.link{
+    margin-left: 30%;
+}
+.location{
+margin-left: 20px;
+}
+footer{
+    text-align: center;
+    padding: 1em;
+    background-color: blue;
+    
+}
+
+
